@@ -13,9 +13,9 @@ datapath = your/path/to/dataset
 
 # Example:
 
-python3 count your/path/to/dataset
+python3 duplicate_remover.py count your/path/to/dataset
 
 or 
 
-python3 del your/path/to/dataset
+python3 duplicate_remover.py del your/path/to/dataset
 
